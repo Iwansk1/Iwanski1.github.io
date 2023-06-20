@@ -63,13 +63,12 @@ button:hover{
     gap: 5px;
 }
 
-/* img:nth-child(n):hover{
+ img:nth-child(n):hover{
     scale: 125%;
-} */
+} 
 img{
     width: 33%;
     border: 1px solid white;
-    cursor: pointer;
 }
 
 
